@@ -50,4 +50,4 @@ gem "devise", "~> 4.9"
 
 gem "devise-jwt", "~> 0.12.1"
 
-gem "active_model_serializers", "~> 0.10.15"
+gem "active_model_serializers", "~> 0.10.16"
